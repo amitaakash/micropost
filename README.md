@@ -1,2 +1,2 @@
 # micropost
-Java scrip Crud
+Java script Crud
