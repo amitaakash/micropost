@@ -1,2 +1,0 @@
-# micropost
-Java script Crud
